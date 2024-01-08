@@ -29,3 +29,12 @@ php -S localhost:8000
 Then follow the link that you specify + /login.php
 In our case, it will look like this 'localhost:8000/login.php'
 That's all, an example of the simplest currency converter with authorization is ready
+Login information
+Login
+```
+admin
+```
+Password
+```
+password
+```
